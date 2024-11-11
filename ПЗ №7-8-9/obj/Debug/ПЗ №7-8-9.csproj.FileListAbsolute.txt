@@ -1,0 +1,10 @@
+C:\Users\Aliot Eternos\source\repos\ПЗ №7-8-9\bin\Debug\ПЗ №7-8-9.exe.config
+C:\Users\Aliot Eternos\source\repos\ПЗ №7-8-9\bin\Debug\ПЗ №7-8-9.exe
+C:\Users\Aliot Eternos\source\repos\ПЗ №7-8-9\bin\Debug\ПЗ №7-8-9.pdb
+C:\Users\Aliot Eternos\source\repos\ПЗ №7-8-9\obj\Debug\ПЗ №7-8-9.csproj.AssemblyReference.cache
+C:\Users\Aliot Eternos\source\repos\ПЗ №7-8-9\obj\Debug\ПЗ__7_8_9.Form1.resources
+C:\Users\Aliot Eternos\source\repos\ПЗ №7-8-9\obj\Debug\ПЗ__7_8_9.Properties.Resources.resources
+C:\Users\Aliot Eternos\source\repos\ПЗ №7-8-9\obj\Debug\ПЗ №7-8-9.csproj.GenerateResource.cache
+C:\Users\Aliot Eternos\source\repos\ПЗ №7-8-9\obj\Debug\ПЗ №7-8-9.csproj.CoreCompileInputs.cache
+C:\Users\Aliot Eternos\source\repos\ПЗ №7-8-9\obj\Debug\ПЗ №7-8-9.exe
+C:\Users\Aliot Eternos\source\repos\ПЗ №7-8-9\obj\Debug\ПЗ №7-8-9.pdb
